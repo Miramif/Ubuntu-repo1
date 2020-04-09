@@ -5,6 +5,8 @@ Unordered list:
 * Item **two**
 * Item ___three___ 
 
+### Section 2
+
 Ordered list:
 1. Item one
 2. Item two
